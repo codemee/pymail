@@ -9,8 +9,8 @@ from openpyxl import Workbook
 src_filename = "創客研習證明.xlsx"
 cource_name = "11/26 用 ESP32 × Arduino IDE 學 AI 機器學習"
 date_str = '1111126'
-id = 'mee'
-passwd = 'PSOC1605a'
+id = 'xxx'
+passwd = 'xxxxxxx'
 
 # 連線並登入旗標的郵件伺服器
 smtp = smtplib.SMTP('flag.com.tw', 25)
